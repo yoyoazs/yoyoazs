@@ -33,7 +33,7 @@ A passionate developer, 22 years old, currently studying at **42**. I love codin
 ## 🌱 Currently Working On
 - **Richis**: Expanding the Richis platform to offer a fully-featured gaming experience with multi-platform support and dynamic Discord integration.
 - **Exploring Game Development**: I am actively learning tools like Unity and Unreal Engine to expand into game development.
-- [**42 Projects Repository**](https://github.com/yoyoazs/42) : A collection of all my projects and assignments from 42 sc hool. From algorithms and data structures to web development.
+- [**42 Projects Repository**](https://github.com/yoyoazs/42-projects) : A collection of all my projects and assignments from 42 sc hool. From algorithms and data structures to web development.
 
 
 ## 📈 GitHub Stats
