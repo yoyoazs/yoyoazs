@@ -1,6 +1,6 @@
 # Hi, I'm Yoyoazs (Yann) 👋
 
-A passionate developer, 21 years old, currently studying at **42**. I love coding, open-source, and solving complex problems. I enjoy exploring new technologies and contributing to interesting projects.
+A passionate developer, 22 years old, currently studying at **42**. I love coding, open-source, and solving complex problems. I enjoy exploring new technologies and contributing to interesting projects.
 
 ## 🛠️ Skills
 
