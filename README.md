@@ -28,7 +28,7 @@ A passionate developer, 22 years old, currently studying at **42**. I love codin
 
 - **Richis** (Private repo) : A platform for gamers to share their activities and customize their Discord status with Rich Presence. (Still under development)
 - [**yoyoLib**](https://github.com/yoyoazs/yoyoLib) : A utility library for logging and multi-language support in Node.js applications.
-- [**42 Projects Repository**](https://github.com/yoyoazs/42) : My projects from 42 school, spanning algorithms, data structures, and web development.
+- [**42 Projects Repository**](https://github.com/yoyoazs/42-projects) : My projects from 42 school, spanning algorithms, data structures, and web development.
 
 ## 🌱 Currently Working On
 - **Richis**: Expanding the Richis platform to offer a fully-featured gaming experience with multi-platform support and dynamic Discord integration.
